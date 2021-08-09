@@ -65,6 +65,11 @@ class BaekjoonSession:
         return result
 
     def ensureLogin(self):
+        """
+        로그인이 되어있는지 확인합니다. 로그인이 되어있지 않을 시 CookieExpired 예외를 발생시킵니다.
+
+        :raises CookieExpired: 로그인이 되어있지 않을 시 발생
+        """
         if '가입 신청' in self.get(f'https://www.acmicpc.net/group/{self.groupId}').text:
             print('[Collector] 로그인이 되어있지 않습니다. 쿠키 정보를 확인해주세요.')
             raise CookieExpired
