@@ -1,0 +1,11 @@
+{
+	"python.linting.pylintEnabled": true,
+	"python.linting.enabled": true,
+	"python.linting.pylintArgs": [
+		"--load-plugins",
+		"pylint_quotes"
+	],
+	"python.formatting.provider": "autopep8",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true
+}
