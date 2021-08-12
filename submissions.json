@@ -1,5 +1,19 @@
 [
 	{
+		"id": 32151364,
+		"username": "solo5star",
+		"problemId": 10167,
+		"problemName": "금광",
+		"tier": 21,
+		"resultCode": "AC",
+		"resultMessage": "100점",
+		"memory": 13936,
+		"time": 1340,
+		"language": "Rust 2018",
+		"length": 7109,
+		"when": "2021-08-13 05:44:27"
+	},
+	{
 		"id": 32151291,
 		"username": "solo5star",
 		"problemId": 10167,
