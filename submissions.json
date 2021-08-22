@@ -1,5 +1,47 @@
 [
 	{
+		"id": 32494163,
+		"username": "asd0236",
+		"problemId": 1041,
+		"problemName": "주사위",
+		"tier": 11,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1897,
+		"when": "2021-08-22 17:42:04"
+	},
+	{
+		"id": 32494113,
+		"username": "asd0236",
+		"problemId": 1041,
+		"problemName": "주사위",
+		"tier": 11,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (NZEC)",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1897,
+		"when": "2021-08-22 17:40:56"
+	},
+	{
+		"id": 32494091,
+		"username": "asd0236",
+		"problemId": 1041,
+		"problemName": "주사위",
+		"tier": 11,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (NZEC)",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1895,
+		"when": "2021-08-22 17:40:15"
+	},
+	{
 		"id": 32493720,
 		"username": "asd0236",
 		"problemId": 1041,
