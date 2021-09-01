@@ -2,6 +2,7 @@ import os
 import json
 import sys
 from baekjoon import BaekjoonSession, CookieExpired, RequestLimitExceed
+from dotenv import load_dotenv
 
 
 def updateSubmissions(session: BaekjoonSession):
@@ -71,16 +72,26 @@ def updateProblems(session: BaekjoonSession):
 
 
 try:
+    load_dotenv()
+
     # 환경변수에서 설정 정보들을 가져옵니다.
     # GROUP_ID: 백준 그룹 ID
     # BOJ_AUTO_LOGIN: 로그인 관련 쿠키 값
     # ONLINE_JUDGE: 로그인 관련 쿠키 값
-    groupId = os.getenv('GROUP_ID')
+    GROUP_ID = os.getenv('GROUP_ID')
+    BOJ_AUTO_LOGIN = os.getenv('BOJ_AUTO_LOGIN')
+    ONLINE_JUDGE = os.getenv('ONLINE_JUDGE')
+
+    if GROUP_ID is None or BOJ_AUTO_LOGIN is None or ONLINE_JUDGE is None:
+        print(f'환경 변수 설정이 필요합니다. 환경 변수 설정 후 프로그램을 실행해주세요.')
+        sys.exit(1)
+
     cookies = {
-        'bojautologin': os.getenv('BOJ_AUTO_LOGIN'),
-        'OnlineJudge': os.getenv('ONLINE_JUDGE')
+        'bojautologin': BOJ_AUTO_LOGIN,
+        'OnlineJudge': ONLINE_JUDGE
     }
-    session = BaekjoonSession(groupId, cookies)
+
+    session = BaekjoonSession(GROUP_ID, cookies)
 
     # 로그인 상태를 확인
     # 로그인이 안되어 있을 시 CookieExpired 에러를 발생시켜 프로그램 중단
