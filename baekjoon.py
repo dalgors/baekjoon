@@ -96,13 +96,11 @@ class BaekjoonSession:
             submission['tier'] = int(tier[1])
 
         # 결과 정보 파싱 및 저장
-        resultTag = submissionTag.contents[3].contents[0].contents[0]
-        if 'class' not in resultTag.attrs:
-            resultTag = resultTag.contents[0]
+        resultTag = submissionTag.find(class_='result-text')
 
         submission.update({
-            'resultCode': '-'.join(resultTag.attrs['class'][0].split('-')[1:]).upper(),
-            'resultMessage': ' '.join(resultTag.contents[0].split(u'\xa0'))
+            'resultCode': '-'.join(resultTag.attrs['class'][1].strip().split('-')[1:]).upper(),
+            'resultMessage': ' '.join(resultTag.text.split(u'\xa0'))
         })
 
         # 메모리, 시간, 언어, 코드 길이 정보
