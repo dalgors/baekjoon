@@ -1,5 +1,47 @@
 [
 	{
+		"id": 33085068,
+		"username": "thdwoqor",
+		"problemId": 1927,
+		"problemName": "최소 힙",
+		"tier": 10,
+		"resultCode": "TLE",
+		"resultMessage": "시간 초과",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 341,
+		"when": "2021-09-07 16:15:53"
+	},
+	{
+		"id": 33084847,
+		"username": "thdwoqor",
+		"problemId": 1927,
+		"problemName": "최소 힙",
+		"tier": 10,
+		"resultCode": "TLE",
+		"resultMessage": "시간 초과",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 299,
+		"when": "2021-09-07 16:11:39"
+	},
+	{
+		"id": 33084726,
+		"username": "thdwoqor",
+		"problemId": 1927,
+		"problemName": "최소 힙",
+		"tier": 10,
+		"resultCode": "TLE",
+		"resultMessage": "시간 초과",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 241,
+		"when": "2021-09-07 16:09:11"
+	},
+	{
 		"id": 33068982,
 		"username": "thdwoqor",
 		"problemId": 1706,
