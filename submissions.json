@@ -1,5 +1,19 @@
 [
 	{
+		"id": 33372053,
+		"username": "asd0236",
+		"problemId": 1874,
+		"problemName": "스택 수열",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2896,
+		"time": 12,
+		"language": "C++17",
+		"length": 428,
+		"when": "2021-09-15 11:18:20"
+	},
+	{
 		"id": 33371280,
 		"username": "algoitni",
 		"problemId": 10757,
