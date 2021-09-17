@@ -30,7 +30,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Collect Baekjoon Group Data
       env:
-        GROUP_ID: 11216
+        GROUP_ID: 12455
         BOJ_AUTO_LOGIN: ${{ secrets.BOJ_AUTO_LOGIN }}
         ONLINE_JUDGE: ${{ secrets.ONLINE_JUDGE }}
       run: |
