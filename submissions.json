@@ -1,5 +1,33 @@
 [
 	{
+		"id": 33493386,
+		"username": "solo5star",
+		"problemId": 21734,
+		"problemName": "SMUPC의 등장",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 13112,
+		"time": 4,
+		"language": "Rust 2018",
+		"length": 860,
+		"when": "2021-09-18 16:42:17"
+	},
+	{
+		"id": 33493235,
+		"username": "solo5star",
+		"problemId": 10807,
+		"problemName": "개수 세기",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 13116,
+		"time": 4,
+		"language": "Rust 2018",
+		"length": 742,
+		"when": "2021-09-18 16:38:15"
+	},
+	{
 		"id": 33492250,
 		"username": "solo5star",
 		"problemId": 4999,
