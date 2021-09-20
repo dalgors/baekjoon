@@ -1,5 +1,47 @@
 [
 	{
+		"id": 33559748,
+		"username": "20183051",
+		"problemId": 9935,
+		"problemName": "문자열 폭발",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 16088,
+		"time": 284,
+		"language": "C# 9.0 (.NET)",
+		"length": 2080,
+		"when": "2021-09-20 19:15:09"
+	},
+	{
+		"id": 33559714,
+		"username": "20183051",
+		"problemId": 9935,
+		"problemName": "문자열 폭발",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 16096,
+		"time": 356,
+		"language": "C# 9.0 (.NET)",
+		"length": 1991,
+		"when": "2021-09-20 19:13:51"
+	},
+	{
+		"id": 33559592,
+		"username": "20183051",
+		"problemId": 9935,
+		"problemName": "문자열 폭발",
+		"tier": 12,
+		"resultCode": "TLE",
+		"resultMessage": "시간 초과",
+		"memory": null,
+		"time": null,
+		"language": "C# 9.0 (.NET)",
+		"length": 1897,
+		"when": "2021-09-20 19:09:58"
+	},
+	{
 		"id": 33558968,
 		"username": "20183051",
 		"problemId": 9935,
