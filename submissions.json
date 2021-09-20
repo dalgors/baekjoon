@@ -1,5 +1,19 @@
 [
 	{
+		"id": 33573546,
+		"username": "solo5star",
+		"problemId": 13713,
+		"problemName": "문자열과 쿼리",
+		"tier": 16,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 26892,
+		"time": 40,
+		"language": "Rust 2018",
+		"length": 1522,
+		"when": "2021-09-21 04:29:19"
+	},
+	{
 		"id": 33573452,
 		"username": "20183051",
 		"problemId": 1967,
