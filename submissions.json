@@ -1,5 +1,33 @@
 [
 	{
+		"id": 33557498,
+		"username": "20183051",
+		"problemId": 9935,
+		"problemName": "문자열 폭발",
+		"tier": 12,
+		"resultCode": "MLE",
+		"resultMessage": "메모리 초과",
+		"memory": null,
+		"time": null,
+		"language": "C# 9.0 (.NET)",
+		"length": 501,
+		"when": "2021-09-20 17:59:01"
+	},
+	{
+		"id": 33557282,
+		"username": "20183051",
+		"problemId": 9935,
+		"problemName": "문자열 폭발",
+		"tier": 12,
+		"resultCode": "MLE",
+		"resultMessage": "메모리 초과",
+		"memory": null,
+		"time": null,
+		"language": "C# 9.0 (.NET)",
+		"length": 523,
+		"when": "2021-09-20 17:52:32"
+	},
+	{
 		"id": 33547121,
 		"username": "algoitni",
 		"problemId": 17219,
