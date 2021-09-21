@@ -1,5 +1,19 @@
 [
 	{
+		"id": 33599055,
+		"username": "20183051",
+		"problemId": 1916,
+		"problemName": "최소비용 구하기",
+		"tier": 11,
+		"resultCode": "MLE",
+		"resultMessage": "메모리 초과",
+		"memory": null,
+		"time": null,
+		"language": "Java 11",
+		"length": 1952,
+		"when": "2021-09-22 01:07:26"
+	},
+	{
 		"id": 33597760,
 		"username": "20183051",
 		"problemId": 1865,
