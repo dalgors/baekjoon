@@ -1,5 +1,19 @@
 [
 	{
+		"id": 33865802,
+		"username": "20183026",
+		"problemId": 1874,
+		"problemName": "스택 수열",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 111588,
+		"time": 1004,
+		"language": "Java 11",
+		"length": 591,
+		"when": "2021-09-29 18:16:29"
+	},
+	{
 		"id": 33864845,
 		"username": "20183026",
 		"problemId": 7785,
