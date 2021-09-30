@@ -1,5 +1,33 @@
 [
 	{
+		"id": 33909432,
+		"username": "carbonsix",
+		"problemId": 1706,
+		"problemName": "크로스워드",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 6116,
+		"time": 108,
+		"language": "C# 9.0 (.NET)",
+		"length": 2002,
+		"when": "2021-09-30 19:22:58"
+	},
+	{
+		"id": 33909308,
+		"username": "carbonsix",
+		"problemId": 1706,
+		"problemName": "크로스워드",
+		"tier": 9,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (IndexOutOfRange)",
+		"memory": null,
+		"time": null,
+		"language": "C# 9.0 (.NET)",
+		"length": 2002,
+		"when": "2021-09-30 19:18:51"
+	},
+	{
 		"id": 33908633,
 		"username": "carbonsix",
 		"problemId": 1520,
