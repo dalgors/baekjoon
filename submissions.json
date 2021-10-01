@@ -1,5 +1,47 @@
 [
 	{
+		"id": 33927442,
+		"username": "solo5star",
+		"problemId": 1018,
+		"problemName": "체스판 다시 칠하기",
+		"tier": 6,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (NameError)",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 2109,
+		"when": "2021-10-01 09:19:33"
+	},
+	{
+		"id": 33927423,
+		"username": "solo5star",
+		"problemId": 1018,
+		"problemName": "체스판 다시 칠하기",
+		"tier": 6,
+		"resultCode": "OLE",
+		"resultMessage": "출력 초과",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 2124,
+		"when": "2021-10-01 09:18:52"
+	},
+	{
+		"id": 33927413,
+		"username": "algoitni",
+		"problemId": 1018,
+		"problemName": "체스판 다시 칠하기",
+		"tier": 6,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 1845,
+		"when": "2021-10-01 09:17:56"
+	},
+	{
 		"id": 33926955,
 		"username": "solo5star",
 		"problemId": 1018,
