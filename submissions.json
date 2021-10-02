@@ -1,5 +1,19 @@
 [
 	{
+		"id": 33988572,
+		"username": "solo5star",
+		"problemId": 9291,
+		"problemName": "스도쿠 채점",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 13116,
+		"time": 4,
+		"language": "Rust 2018",
+		"length": 1704,
+		"when": "2021-10-02 22:34:36"
+	},
+	{
 		"id": 33988344,
 		"username": "solo5star",
 		"problemId": 3518,
