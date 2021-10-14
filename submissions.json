@@ -1,5 +1,19 @@
 [
 	{
+		"id": 34415214,
+		"username": "thdwoqor",
+		"problemId": 1934,
+		"problemName": "최소공배수",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 128280,
+		"time": 236,
+		"language": "PyPy3",
+		"length": 285,
+		"when": "2021-10-15 01:50:19"
+	},
+	{
 		"id": 34414453,
 		"username": "thdwoqor",
 		"problemId": 16165,
