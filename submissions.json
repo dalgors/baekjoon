@@ -1,5 +1,33 @@
 [
 	{
+		"id": 34503467,
+		"username": "solo5star",
+		"problemId": 10872,
+		"problemName": "팩토리얼",
+		"tier": 3,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 18252,
+		"time": 8,
+		"language": "Bash",
+		"length": 97,
+		"when": "2021-10-18 04:45:43"
+	},
+	{
+		"id": 34503451,
+		"username": "solo5star",
+		"problemId": 10039,
+		"problemName": "평균 점수",
+		"tier": 2,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 18256,
+		"time": 8,
+		"language": "Bash",
+		"length": 162,
+		"when": "2021-10-18 04:43:15"
+	},
+	{
 		"id": 34503429,
 		"username": "solo5star",
 		"problemId": 1924,
