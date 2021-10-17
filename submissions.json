@@ -1,5 +1,33 @@
 [
 	{
+		"id": 34503356,
+		"username": "solo5star",
+		"problemId": 10871,
+		"problemName": "X보다 작은 수",
+		"tier": 3,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 19944,
+		"time": 668,
+		"language": "Bash",
+		"length": 106,
+		"when": "2021-10-18 04:16:45"
+	},
+	{
+		"id": 34503324,
+		"username": "solo5star",
+		"problemId": 1330,
+		"problemName": "두 수 비교하기",
+		"tier": 2,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 18256,
+		"time": 8,
+		"language": "Bash",
+		"length": 105,
+		"when": "2021-10-18 04:09:32"
+	},
+	{
 		"id": 34503120,
 		"username": "solo5star",
 		"problemId": 10171,
