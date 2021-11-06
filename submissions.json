@@ -1,5 +1,19 @@
 [
 	{
+		"id": 35147359,
+		"username": "solo5star",
+		"problemId": 2660,
+		"problemName": "회장뽑기",
+		"tier": 11,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 13116,
+		"time": 4,
+		"language": "Rust 2018",
+		"length": 1879,
+		"when": "2021-11-07 00:47:08"
+	},
+	{
 		"id": 35138244,
 		"username": "carbonsix",
 		"problemId": 16165,
