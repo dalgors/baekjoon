@@ -1,5 +1,19 @@
 [
 	{
+		"id": 35167564,
+		"username": "solo5star",
+		"problemId": 10026,
+		"problemName": "적록색약",
+		"tier": 11,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 13252,
+		"time": 4,
+		"language": "Rust 2018",
+		"length": 2189,
+		"when": "2021-11-07 18:56:53"
+	},
+	{
 		"id": 35166698,
 		"username": "solo5star",
 		"problemId": 7453,
