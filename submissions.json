@@ -1,5 +1,33 @@
 [
 	{
+		"id": 35387324,
+		"username": "solo5star",
+		"problemId": 11728,
+		"problemName": "배열 합치기",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 57612,
+		"time": 340,
+		"language": "Rust 2018",
+		"length": 786,
+		"when": "2021-11-13 20:56:20"
+	},
+	{
+		"id": 35387245,
+		"username": "solo5star",
+		"problemId": 11944,
+		"problemName": "NN",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 13116,
+		"time": 4,
+		"language": "Rust 2018",
+		"length": 692,
+		"when": "2021-11-13 20:53:35"
+	},
+	{
 		"id": 35386914,
 		"username": "solo5star",
 		"problemId": 11721,
