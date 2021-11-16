@@ -1,5 +1,19 @@
 [
 	{
+		"id": 35466974,
+		"username": "solo5star",
+		"problemId": 1389,
+		"problemName": "케빈 베이컨의 6단계 법칙",
+		"tier": 10,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 13116,
+		"time": 4,
+		"language": "Rust 2018",
+		"length": 1757,
+		"when": "2021-11-16 13:01:23"
+	},
+	{
 		"id": 35466482,
 		"username": "solo5star",
 		"problemId": 1931,
