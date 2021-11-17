@@ -1,5 +1,19 @@
 [
 	{
+		"id": 35529068,
+		"username": "20183051",
+		"problemId": 9372,
+		"problemName": "상근이의 여행",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 24660,
+		"time": 256,
+		"language": "Java 11",
+		"length": 709,
+		"when": "2021-11-18 03:40:56"
+	},
+	{
 		"id": 35528720,
 		"username": "20183051",
 		"problemId": 11728,
