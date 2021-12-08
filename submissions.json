@@ -1,5 +1,33 @@
 [
 	{
+		"id": 36130102,
+		"username": "asd0236",
+		"problemId": 13229,
+		"problemName": "Selection Sum",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2412,
+		"time": 8,
+		"language": "C++17",
+		"length": 334,
+		"when": "2021-12-08 10:28:48"
+	},
+	{
+		"id": 36130062,
+		"username": "asd0236",
+		"problemId": 13229,
+		"problemName": "Selection Sum",
+		"tier": 6,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (OutOfBounds)",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 333,
+		"when": "2021-12-08 10:27:16"
+	},
+	{
 		"id": 36129812,
 		"username": "asd0236",
 		"problemId": 5635,
