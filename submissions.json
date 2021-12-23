@@ -1,5 +1,33 @@
 [
 	{
+		"id": 36574564,
+		"username": "algoitni",
+		"problemId": 14225,
+		"problemName": "부분수열의 합",
+		"tier": 10,
+		"resultCode": "TLE",
+		"resultMessage": "시간 초과",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 1229,
+		"when": "2021-12-23 12:02:37"
+	},
+	{
+		"id": 36574552,
+		"username": "algoitni",
+		"problemId": 14225,
+		"problemName": "부분수열의 합",
+		"tier": 10,
+		"resultCode": "TLE",
+		"resultMessage": "시간 초과",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 1229,
+		"when": "2021-12-23 12:02:09"
+	},
+	{
 		"id": 36523108,
 		"username": "asd0236",
 		"problemId": 17305,
