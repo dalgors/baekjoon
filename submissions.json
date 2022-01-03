@@ -1,5 +1,19 @@
 [
 	{
+		"id": 37004103,
+		"username": "thdwoqor",
+		"problemId": 9076,
+		"problemName": "점수 집계",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 123316,
+		"time": 104,
+		"language": "PyPy3",
+		"length": 235,
+		"when": "2022-01-03 20:26:30"
+	},
+	{
 		"id": 37003182,
 		"username": "algoitni",
 		"problemId": 4803,
