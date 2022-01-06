@@ -1,5 +1,19 @@
 [
 	{
+		"id": 37142233,
+		"username": "carbonsix",
+		"problemId": 9076,
+		"problemName": "점수 집계",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 6056,
+		"time": 108,
+		"language": "C# 9.0 (.NET)",
+		"length": 716,
+		"when": "2022-01-06 12:55:06"
+	},
+	{
 		"id": 37141778,
 		"username": "carbonsix",
 		"problemId": 5363,
