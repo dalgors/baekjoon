@@ -1,5 +1,19 @@
 [
 	{
+		"id": 37275199,
+		"username": "solo5star",
+		"problemId": 7562,
+		"problemName": "나이트의 이동",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 16584,
+		"time": 48,
+		"language": "Rust 2018",
+		"length": 1804,
+		"when": "2022-01-09 05:59:05"
+	},
+	{
 		"id": 37275157,
 		"username": "solo5star",
 		"problemId": 5525,
