@@ -1,5 +1,33 @@
 [
 	{
+		"id": 37274948,
+		"username": "solo5star",
+		"problemId": 14225,
+		"problemName": "부분수열의 합",
+		"tier": 10,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 22404,
+		"time": 104,
+		"language": "Rust 2018",
+		"length": 1137,
+		"when": "2022-01-09 05:21:58"
+	},
+	{
+		"id": 37274830,
+		"username": "solo5star",
+		"problemId": 13334,
+		"problemName": "철로",
+		"tier": 14,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 20300,
+		"time": 32,
+		"language": "Rust 2018",
+		"length": 1427,
+		"when": "2022-01-09 05:05:35"
+	},
+	{
 		"id": 37256535,
 		"username": "algoitni",
 		"problemId": 7562,
