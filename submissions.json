@@ -1,5 +1,33 @@
 [
 	{
+		"id": 37285893,
+		"username": "jiho9707",
+		"problemId": 9076,
+		"problemName": "점수 집계",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30860,
+		"time": 68,
+		"language": "Python 3",
+		"length": 247,
+		"when": "2022-01-09 15:39:39"
+	},
+	{
+		"id": 37285809,
+		"username": "jiho9707",
+		"problemId": 9076,
+		"problemName": "점수 집계",
+		"tier": 4,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (TypeError)",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 245,
+		"when": "2022-01-09 15:37:55"
+	},
+	{
 		"id": 37276492,
 		"username": "asd0236",
 		"problemId": 1747,
