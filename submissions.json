@@ -1,5 +1,19 @@
 [
 	{
+		"id": 37607800,
+		"username": "yun010207",
+		"problemId": 2108,
+		"problemName": "통계학",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 3976,
+		"time": 204,
+		"language": "C++17",
+		"length": 974,
+		"when": "2022-01-15 21:27:01"
+	},
+	{
 		"id": 37606151,
 		"username": "yun010207",
 		"problemId": 11170,
