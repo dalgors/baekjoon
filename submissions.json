@@ -1,5 +1,33 @@
 [
 	{
+		"id": 37663793,
+		"username": "20183051",
+		"problemId": 14002,
+		"problemName": "가장 긴 증가하는 부분 수열 4",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2028,
+		"time": 0,
+		"language": "C++17",
+		"length": 1176,
+		"when": "2022-01-17 03:55:38"
+	},
+	{
+		"id": 37663710,
+		"username": "20183051",
+		"problemId": 14003,
+		"problemName": "가장 긴 증가하는 부분 수열 5",
+		"tier": 16,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 22460,
+		"time": 684,
+		"language": "C++17",
+		"length": 1186,
+		"when": "2022-01-17 03:47:11"
+	},
+	{
 		"id": 37661918,
 		"username": "20183051",
 		"problemId": 12738,
