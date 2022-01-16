@@ -1,5 +1,33 @@
 [
 	{
+		"id": 37650916,
+		"username": "20183051",
+		"problemId": 12738,
+		"problemName": "가장 긴 증가하는 부분 수열 3",
+		"tier": 14,
+		"resultCode": "CE",
+		"resultMessage": "컴파일 에러",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1119,
+		"when": "2022-01-16 21:49:54"
+	},
+	{
+		"id": 37650866,
+		"username": "20183051",
+		"problemId": 12738,
+		"problemName": "가장 긴 증가하는 부분 수열 3",
+		"tier": 14,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1120,
+		"when": "2022-01-16 21:49:07"
+	},
+	{
 		"id": 37647774,
 		"username": "yun010207",
 		"problemId": 15990,
