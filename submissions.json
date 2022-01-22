@@ -1,5 +1,19 @@
 [
 	{
+		"id": 37973969,
+		"username": "yun010207",
+		"problemId": 1068,
+		"problemName": "트리",
+		"tier": 11,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 5148,
+		"time": 0,
+		"language": "C++17",
+		"length": 1009,
+		"when": "2022-01-22 23:40:32"
+	},
+	{
 		"id": 37972772,
 		"username": "yun010207",
 		"problemId": 1068,
