@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38018362,
+		"username": "20183026",
+		"problemId": 10989,
+		"problemName": "수 정렬하기 3",
+		"tier": 6,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (IndexError)",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 339,
+		"when": "2022-01-23 23:10:05"
+	},
+	{
 		"id": 38017282,
 		"username": "20203175",
 		"problemId": 11399,
