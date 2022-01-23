@@ -1,5 +1,33 @@
 [
 	{
+		"id": 38022334,
+		"username": "yun010207",
+		"problemId": 1260,
+		"problemName": "DFS와 BFS",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 3000,
+		"time": 8,
+		"language": "C++17",
+		"length": 864,
+		"when": "2022-01-24 00:24:06"
+	},
+	{
+		"id": 38021737,
+		"username": "yun010207",
+		"problemId": 1260,
+		"problemName": "DFS와 BFS",
+		"tier": 9,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1085,
+		"when": "2022-01-24 00:09:26"
+	},
+	{
 		"id": 38020354,
 		"username": "yun010207",
 		"problemId": 1260,
