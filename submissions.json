@@ -1,5 +1,47 @@
 [
 	{
+		"id": 38093410,
+		"username": "asd0236",
+		"problemId": 1717,
+		"problemName": "집합의 표현",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 9832,
+		"time": 40,
+		"language": "C++17",
+		"length": 749,
+		"when": "2022-01-25 13:24:28"
+	},
+	{
+		"id": 38093145,
+		"username": "asd0236",
+		"problemId": 1717,
+		"problemName": "집합의 표현",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 6320,
+		"time": 36,
+		"language": "C++17",
+		"length": 724,
+		"when": "2022-01-25 13:17:22"
+	},
+	{
+		"id": 38093127,
+		"username": "asd0236",
+		"problemId": 1717,
+		"problemName": "집합의 표현",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 10228,
+		"time": 44,
+		"language": "C++17",
+		"length": 721,
+		"when": "2022-01-25 13:16:54"
+	},
+	{
 		"id": 38089419,
 		"username": "asd0236",
 		"problemId": 1717,
