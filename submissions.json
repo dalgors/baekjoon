@@ -1,5 +1,33 @@
 [
 	{
+		"id": 38317777,
+		"username": "20203217",
+		"problemId": 1193,
+		"problemName": "분수찾기",
+		"tier": 5,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 0,
+		"language": "C++17",
+		"length": 231,
+		"when": "2022-01-29 21:20:10"
+	},
+	{
+		"id": 38317689,
+		"username": "20203217",
+		"problemId": 1193,
+		"problemName": "분수찾기",
+		"tier": 5,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 360,
+		"when": "2022-01-29 21:17:48"
+	},
+	{
 		"id": 38315936,
 		"username": "20203217",
 		"problemId": 1236,
