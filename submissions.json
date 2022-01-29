@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38331825,
+		"username": "solo5star",
+		"problemId": 2108,
+		"problemName": "통계학",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 24288,
+		"time": 56,
+		"language": "Rust 2018",
+		"length": 1531,
+		"when": "2022-01-30 06:29:15"
+	},
+	{
 		"id": 38331771,
 		"username": "solo5star",
 		"problemId": 1912,
