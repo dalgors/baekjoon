@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38331947,
+		"username": "solo5star",
+		"problemId": 11170,
+		"problemName": "0의 개수",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 16244,
+		"time": 72,
+		"language": "Rust 2018",
+		"length": 983,
+		"when": "2022-01-30 06:58:01"
+	},
+	{
 		"id": 38331938,
 		"username": "solo5star",
 		"problemId": 8979,
