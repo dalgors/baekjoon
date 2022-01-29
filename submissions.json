@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38305060,
+		"username": "20203217",
+		"problemId": 1059,
+		"problemName": "좋은 구간",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 0,
+		"language": "C++17",
+		"length": 1088,
+		"when": "2022-01-29 16:05:22"
+	},
+	{
 		"id": 38303597,
 		"username": "algoitni",
 		"problemId": 1059,
