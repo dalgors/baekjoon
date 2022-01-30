@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38354697,
+		"username": "algoitni",
+		"problemId": 9012,
+		"problemName": "괄호",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2024,
+		"time": 4,
+		"language": "C++17",
+		"length": 981,
+		"when": "2022-01-30 20:38:33"
+	},
+	{
 		"id": 38353312,
 		"username": "asd0236",
 		"problemId": 16566,
