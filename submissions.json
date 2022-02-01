@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38443896,
+		"username": "solo5star",
+		"problemId": 3830,
+		"problemName": "교수님은 기다리지 않는다",
+		"tier": 18,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 53592,
+		"time": 176,
+		"language": "Rust 2018",
+		"length": 2573,
+		"when": "2022-02-02 07:45:26"
+	},
+	{
 		"id": 38443516,
 		"username": "solo5star",
 		"problemId": 1763,
