@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38448271,
+		"username": "solo5star",
+		"problemId": 14287,
+		"problemName": "회사 문화 3",
+		"tier": 17,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 24256,
+		"time": 52,
+		"language": "Rust 2018",
+		"length": 4515,
+		"when": "2022-02-02 12:56:47"
+	},
+	{
 		"id": 38447881,
 		"username": "solo5star",
 		"problemId": 14268,
