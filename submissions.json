@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38514571,
+		"username": "qotjsdud67",
+		"problemId": 1699,
+		"problemName": "제곱수의 합",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2412,
+		"time": 36,
+		"language": "C++17",
+		"length": 300,
+		"when": "2022-02-03 19:41:59"
+	},
+	{
 		"id": 38513155,
 		"username": "qotjsdud67",
 		"problemId": 1699,
