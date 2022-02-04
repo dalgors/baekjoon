@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38581181,
+		"username": "algoitni",
+		"problemId": 6603,
+		"problemName": "로또",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 130924,
+		"time": 1580,
+		"language": "PyPy3",
+		"length": 1133,
+		"when": "2022-02-05 01:34:06"
+	},
+	{
 		"id": 38574828,
 		"username": "qotjsdud67",
 		"problemId": 10828,
