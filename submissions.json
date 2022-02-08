@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38758347,
+		"username": "qotjsdud67",
+		"problemId": 6603,
+		"problemName": "로또",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 0,
+		"language": "C++17",
+		"length": 559,
+		"when": "2022-02-08 17:51:12"
+	},
+	{
 		"id": 38738217,
 		"username": "20183220",
 		"problemId": 4673,
