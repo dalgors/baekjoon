@@ -1,5 +1,33 @@
 [
 	{
+		"id": 38778272,
+		"username": "thdwoqor",
+		"problemId": 4673,
+		"problemName": "셀프 넘버",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30864,
+		"time": 76,
+		"language": "Python 3",
+		"length": 276,
+		"when": "2022-02-08 23:44:11"
+	},
+	{
+		"id": 38778261,
+		"username": "thdwoqor",
+		"problemId": 4673,
+		"problemName": "셀프 넘버",
+		"tier": 6,
+		"resultCode": "MLE",
+		"resultMessage": "메모리 초과",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 276,
+		"when": "2022-02-08 23:44:03"
+	},
+	{
 		"id": 38776222,
 		"username": "thdwoqor",
 		"problemId": 1158,
