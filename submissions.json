@@ -1,5 +1,33 @@
 [
 	{
+		"id": 38836796,
+		"username": "thdwoqor",
+		"problemId": 6603,
+		"problemName": "로또",
+		"tier": 9,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 627,
+		"when": "2022-02-10 00:40:46"
+	},
+	{
+		"id": 38836635,
+		"username": "thdwoqor",
+		"problemId": 6603,
+		"problemName": "로또",
+		"tier": 9,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 598,
+		"when": "2022-02-10 00:37:38"
+	},
+	{
 		"id": 38816917,
 		"username": "20203217",
 		"problemId": 1076,
