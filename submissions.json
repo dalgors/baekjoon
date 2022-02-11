@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38905037,
+		"username": "20183051",
+		"problemId": 9663,
+		"problemName": "N-Queen",
+		"tier": 11,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 4916,
+		"language": "C++17",
+		"length": 757,
+		"when": "2022-02-11 13:17:55"
+	},
+	{
 		"id": 38873470,
 		"username": "20203185",
 		"problemId": 7569,
