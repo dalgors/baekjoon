@@ -1,5 +1,19 @@
 [
 	{
+		"id": 38986077,
+		"username": "yun010207",
+		"problemId": 4673,
+		"problemName": "셀프 넘버",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2032,
+		"time": 0,
+		"language": "C++17",
+		"length": 424,
+		"when": "2022-02-13 03:35:03"
+	},
+	{
 		"id": 38985694,
 		"username": "yun010207",
 		"problemId": 4673,
