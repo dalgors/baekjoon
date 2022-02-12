@@ -1,5 +1,47 @@
 [
 	{
+		"id": 38985694,
+		"username": "yun010207",
+		"problemId": 4673,
+		"problemName": "셀프 넘버",
+		"tier": 6,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 424,
+		"when": "2022-02-13 03:12:34"
+	},
+	{
+		"id": 38985690,
+		"username": "yun010207",
+		"problemId": 4673,
+		"problemName": "셀프 넘버",
+		"tier": 6,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (OutOfBounds)",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 424,
+		"when": "2022-02-13 03:12:13"
+	},
+	{
+		"id": 38985467,
+		"username": "yun010207",
+		"problemId": 1158,
+		"problemName": "요세푸스 문제",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2152,
+		"time": 72,
+		"language": "C++17",
+		"length": 487,
+		"when": "2022-02-13 03:01:22"
+	},
+	{
 		"id": 38984107,
 		"username": "as1212000",
 		"problemId": 10809,
