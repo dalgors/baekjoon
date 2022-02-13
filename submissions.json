@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39006103,
+		"username": "thdwoqor",
+		"problemId": 9663,
+		"problemName": "N-Queen",
+		"tier": 11,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 214912,
+		"time": 31176,
+		"language": "PyPy3",
+		"length": 538,
+		"when": "2022-02-13 17:44:32"
+	},
+	{
 		"id": 39002779,
 		"username": "jiho9707",
 		"problemId": 1018,
