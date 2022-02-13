@@ -1,5 +1,33 @@
 [
 	{
+		"id": 39002779,
+		"username": "jiho9707",
+		"problemId": 1018,
+		"problemName": "체스판 다시 칠하기",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30864,
+		"time": 112,
+		"language": "Python 3",
+		"length": 722,
+		"when": "2022-02-13 16:45:17"
+	},
+	{
+		"id": 39002630,
+		"username": "jiho9707",
+		"problemId": 1018,
+		"problemName": "체스판 다시 칠하기",
+		"tier": 6,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (IndexError)",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 702,
+		"when": "2022-02-13 16:43:10"
+	},
+	{
 		"id": 38986077,
 		"username": "yun010207",
 		"problemId": 4673,
