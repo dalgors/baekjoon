@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39050070,
+		"username": "20203175",
+		"problemId": 4673,
+		"problemName": "셀프 넘버",
+		"tier": 6,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (OutOfBounds)",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 664,
+		"when": "2022-02-14 16:25:40"
+	},
+	{
 		"id": 39047831,
 		"username": "20203175",
 		"problemId": 2309,
