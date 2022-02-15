@@ -1,5 +1,47 @@
 [
 	{
+		"id": 39088992,
+		"username": "algoitni",
+		"problemId": 1021,
+		"problemName": "회전하는 큐",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2024,
+		"time": 0,
+		"language": "C++17",
+		"length": 2543,
+		"when": "2022-02-15 11:04:03"
+	},
+	{
+		"id": 39088957,
+		"username": "algoitni",
+		"problemId": 1021,
+		"problemName": "회전하는 큐",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2024,
+		"time": 0,
+		"language": "C++17",
+		"length": 2543,
+		"when": "2022-02-15 11:03:08"
+	},
+	{
+		"id": 39088858,
+		"username": "algoitni",
+		"problemId": 1021,
+		"problemName": "회전하는 큐",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2024,
+		"time": 0,
+		"language": "C++17",
+		"length": 2644,
+		"when": "2022-02-15 11:00:22"
+	},
+	{
 		"id": 39077962,
 		"username": "qotjsdud67",
 		"problemId": 1753,
