@@ -1,5 +1,33 @@
 [
 	{
+		"id": 39188179,
+		"username": "as1212000",
+		"problemId": 9012,
+		"problemName": "괄호",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 17820,
+		"time": 224,
+		"language": "Java 11",
+		"length": 1055,
+		"when": "2022-02-17 01:04:29"
+	},
+	{
+		"id": 39188154,
+		"username": "as1212000",
+		"problemId": 9012,
+		"problemName": "괄호",
+		"tier": 7,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "Java 11",
+		"length": 1055,
+		"when": "2022-02-17 01:04:00"
+	},
+	{
 		"id": 39154919,
 		"username": "20183026",
 		"problemId": 1806,
