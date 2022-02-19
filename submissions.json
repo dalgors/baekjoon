@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39307942,
+		"username": "20203175",
+		"problemId": 1018,
+		"problemName": "체스판 다시 칠하기",
+		"tier": 6,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (Segfault)",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1235,
+		"when": "2022-02-19 17:23:53"
+	},
+	{
 		"id": 39305453,
 		"username": "jiho9707",
 		"problemId": 1021,
