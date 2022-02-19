@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39322763,
+		"username": "as1212000",
+		"problemId": 1316,
+		"problemName": "그룹 단어 체커",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 17788,
+		"time": 220,
+		"language": "Java 11",
+		"length": 1100,
+		"when": "2022-02-19 23:18:05"
+	},
+	{
 		"id": 39322025,
 		"username": "20203175",
 		"problemId": 1018,
