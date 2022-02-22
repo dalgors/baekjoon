@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39458272,
+		"username": "20203185",
+		"problemId": 1197,
+		"problemName": "최소 스패닝 트리",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2328,
+		"time": 48,
+		"language": "C++17",
+		"length": 1231,
+		"when": "2022-02-22 19:32:59"
+	},
+	{
 		"id": 39453691,
 		"username": "20203185",
 		"problemId": 2573,
