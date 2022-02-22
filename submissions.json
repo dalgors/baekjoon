@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39472050,
+		"username": "as1212000",
+		"problemId": 2774,
+		"problemName": "아름다운 수",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 17600,
+		"time": 196,
+		"language": "Java 11",
+		"length": 855,
+		"when": "2022-02-22 23:25:47"
+	},
+	{
 		"id": 39465907,
 		"username": "algoitni",
 		"problemId": 15657,
