@@ -33,6 +33,9 @@ class BaekjoonSession:
         self.throttlePerRequestAsMilliseconds = throttlePerRequestAsMilliseconds
         self.__session = requests.Session()
         self.__session.cookies.update(cookies)
+        self.__session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36'
+        })
 
         # 실제 요청 횟수가 기록되는 변수
         self.__requestCount = 0
