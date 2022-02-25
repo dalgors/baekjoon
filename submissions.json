@@ -1,5 +1,47 @@
 [
 	{
+		"id": 39617748,
+		"username": "algoitni",
+		"problemId": 11725,
+		"problemName": "트리의 부모 찾기",
+		"tier": 9,
+		"resultCode": "MLE",
+		"resultMessage": "메모리 초과",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 856,
+		"when": "2022-02-25 22:38:47"
+	},
+	{
+		"id": 39617730,
+		"username": "algoitni",
+		"problemId": 11725,
+		"problemName": "트리의 부모 찾기",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 160296,
+		"time": 400,
+		"language": "Python 3",
+		"length": 856,
+		"when": "2022-02-25 22:38:26"
+	},
+	{
+		"id": 39617668,
+		"username": "algoitni",
+		"problemId": 11725,
+		"problemName": "트리의 부모 찾기",
+		"tier": 9,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (RecursionError)",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 814,
+		"when": "2022-02-25 22:37:08"
+	},
+	{
 		"id": 39613903,
 		"username": "algoitni",
 		"problemId": 9663,
