@@ -1,5 +1,33 @@
 [
 	{
+		"id": 39665983,
+		"username": "20183051",
+		"problemId": 9251,
+		"problemName": "LCS",
+		"tier": 11,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 5940,
+		"time": 4,
+		"language": "C++17",
+		"length": 604,
+		"when": "2022-02-27 00:37:33"
+	},
+	{
+		"id": 39665894,
+		"username": "20183051",
+		"problemId": 9251,
+		"problemName": "LCS",
+		"tier": 11,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 600,
+		"when": "2022-02-27 00:34:45"
+	},
+	{
 		"id": 39665407,
 		"username": "20183051",
 		"problemId": 9251,
