@@ -1,5 +1,47 @@
 [
 	{
+		"id": 39669465,
+		"username": "20183051",
+		"problemId": 9252,
+		"problemName": "LCS 2",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 5940,
+		"time": 4,
+		"language": "C++17",
+		"length": 876,
+		"when": "2022-02-27 02:45:37"
+	},
+	{
+		"id": 39669424,
+		"username": "20183051",
+		"problemId": 9252,
+		"problemName": "LCS 2",
+		"tier": 12,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 883,
+		"when": "2022-02-27 02:43:54"
+	},
+	{
+		"id": 39669383,
+		"username": "20183051",
+		"problemId": 9252,
+		"problemName": "LCS 2",
+		"tier": 12,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 908,
+		"when": "2022-02-27 02:41:53"
+	},
+	{
 		"id": 39669340,
 		"username": "20183051",
 		"problemId": 9252,
