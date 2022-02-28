@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39753607,
+		"username": "20183026",
+		"problemId": 5522,
+		"problemName": "카드 게임",
+		"tier": 1,
+		"resultCode": "AC",
+		"resultMessage": "100점",
+		"memory": 30864,
+		"time": 72,
+		"language": "Python 3",
+		"length": 144,
+		"when": "2022-02-28 23:16:24"
+	},
+	{
 		"id": 39748426,
 		"username": "algoitni",
 		"problemId": 1043,
