@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39889276,
+		"username": "20183220",
+		"problemId": 6236,
+		"problemName": "용돈 관리",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2800,
+		"time": 44,
+		"language": "C++17",
+		"length": 636,
+		"when": "2022-03-03 20:22:06"
+	},
+	{
 		"id": 39888360,
 		"username": "20183220",
 		"problemId": 6236,
