@@ -1,5 +1,33 @@
 [
 	{
+		"id": 39983733,
+		"username": "solo5star",
+		"problemId": 11053,
+		"problemName": "가장 긴 증가하는 부분 수열",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2028,
+		"time": 0,
+		"language": "C++17",
+		"length": 527,
+		"when": "2022-03-05 20:36:28"
+	},
+	{
+		"id": 39983705,
+		"username": "solo5star",
+		"problemId": 11053,
+		"problemName": "가장 긴 증가하는 부분 수열",
+		"tier": 9,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 527,
+		"when": "2022-03-05 20:35:45"
+	},
+	{
 		"id": 39981923,
 		"username": "algoitni",
 		"problemId": 12015,
