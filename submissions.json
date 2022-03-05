@@ -1,5 +1,19 @@
 [
 	{
+		"id": 39981675,
+		"username": "algoitni",
+		"problemId": 12738,
+		"problemName": "가장 긴 증가하는 부분 수열 3",
+		"tier": 14,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (IndexError)",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 662,
+		"when": "2022-03-05 19:48:57"
+	},
+	{
 		"id": 39979294,
 		"username": "algoitni",
 		"problemId": 12015,
