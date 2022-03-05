@@ -280,34 +280,6 @@
 		"when": "2022-03-05 21:19:35"
 	},
 	{
-		"id": 39985539,
-		"username": "gallopsys",
-		"problemId": 12738,
-		"problemName": "가장 긴 증가하는 부분 수열 3",
-		"tier": 14,
-		"resultCode": "AC",
-		"resultMessage": "맞았습니다!!",
-		"memory": 12084,
-		"time": 276,
-		"language": "C++17",
-		"length": 484,
-		"when": "2022-03-05 21:18:51"
-	},
-	{
-		"id": 39985501,
-		"username": "gallopsys",
-		"problemId": 12015,
-		"problemName": "가장 긴 증가하는 부분 수열 2",
-		"tier": 14,
-		"resultCode": "AC",
-		"resultMessage": "맞았습니다!!",
-		"memory": 12084,
-		"time": 232,
-		"language": "C++17",
-		"length": 484,
-		"when": "2022-03-05 21:18:07"
-	},
-	{
 		"id": 39985390,
 		"username": "solo5star",
 		"problemId": 12738,
@@ -334,20 +306,6 @@
 		"language": "C++17",
 		"length": 484,
 		"when": "2022-03-05 21:12:44"
-	},
-	{
-		"id": 39984445,
-		"username": "gallopsys",
-		"problemId": 11053,
-		"problemName": "가장 긴 증가하는 부분 수열",
-		"tier": 9,
-		"resultCode": "AC",
-		"resultMessage": "맞았습니다!!",
-		"memory": 2028,
-		"time": 0,
-		"language": "C++17",
-		"length": 530,
-		"when": "2022-03-05 20:52:06"
 	},
 	{
 		"id": 39984397,
