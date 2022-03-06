@@ -1,5 +1,33 @@
 [
 	{
+		"id": 40036812,
+		"username": "20183026",
+		"problemId": 10818,
+		"problemName": "최소, 최대",
+		"tier": 3,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 149440,
+		"time": 436,
+		"language": "Python 3",
+		"length": 176,
+		"when": "2022-03-06 22:52:27"
+	},
+	{
+		"id": 40036668,
+		"username": "20183026",
+		"problemId": 2675,
+		"problemName": "문자열 반복",
+		"tier": 4,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30860,
+		"time": 68,
+		"language": "Python 3",
+		"length": 199,
+		"when": "2022-03-06 22:49:24"
+	},
+	{
 		"id": 40036342,
 		"username": "20183026",
 		"problemId": 2562,
