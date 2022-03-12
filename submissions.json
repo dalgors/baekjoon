@@ -1,5 +1,19 @@
 [
 	{
+		"id": 40319755,
+		"username": "thdwoqor",
+		"problemId": 12738,
+		"problemName": "가장 긴 증가하는 부분 수열 3",
+		"tier": 14,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 151508,
+		"time": 1040,
+		"language": "Python 3",
+		"length": 249,
+		"when": "2022-03-12 20:11:18"
+	},
+	{
 		"id": 40315734,
 		"username": "solo5star",
 		"problemId": 1000,
