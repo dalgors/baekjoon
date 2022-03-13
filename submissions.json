@@ -1,5 +1,33 @@
 [
 	{
+		"id": 40366383,
+		"username": "solo5star",
+		"problemId": 9095,
+		"problemName": "1, 2, 3 더하기",
+		"tier": 8,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (ImportError)",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 355,
+		"when": "2022-03-13 20:14:09"
+	},
+	{
+		"id": 40366378,
+		"username": "solo5star",
+		"problemId": 9095,
+		"problemName": "1, 2, 3 더하기",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 32356,
+		"time": 104,
+		"language": "Python 3",
+		"length": 355,
+		"when": "2022-03-13 20:13:59"
+	},
+	{
 		"id": 40362679,
 		"username": "20203217",
 		"problemId": 11727,
