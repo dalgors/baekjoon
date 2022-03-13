@@ -1,5 +1,33 @@
 [
 	{
+		"id": 40371090,
+		"username": "solo5star",
+		"problemId": 14868,
+		"problemName": "문명",
+		"tier": 17,
+		"resultCode": "AC",
+		"resultMessage": "100점",
+		"memory": 367844,
+		"time": 4496,
+		"language": "PyPy3",
+		"length": 1560,
+		"when": "2022-03-13 21:40:27"
+	},
+	{
+		"id": 40370527,
+		"username": "solo5star",
+		"problemId": 14868,
+		"problemName": "문명",
+		"tier": 17,
+		"resultCode": "MLE",
+		"resultMessage": "메모리 초과",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 1477,
+		"when": "2022-03-13 21:29:37"
+	},
+	{
 		"id": 40370500,
 		"username": "solo5star",
 		"problemId": 14868,
