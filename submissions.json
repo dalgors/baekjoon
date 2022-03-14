@@ -1,5 +1,19 @@
 [
 	{
+		"id": 40429103,
+		"username": "qotjsdud67",
+		"problemId": 12015,
+		"problemName": "가장 긴 증가하는 부분 수열 2",
+		"tier": 14,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 8292,
+		"time": 160,
+		"language": "C++17",
+		"length": 378,
+		"when": "2022-03-14 22:46:29"
+	},
+	{
 		"id": 40428544,
 		"username": "qotjsdud67",
 		"problemId": 12015,
