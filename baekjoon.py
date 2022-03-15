@@ -114,7 +114,7 @@ class BaekjoonSession:
             'memory': int(memory) if memory else None,
             'time': int(timeRecord) if timeRecord else None,
             'language': language,
-            'length': int(length),
+            'length': int(length) if length else None,
             'when': submissionTag.contents[8].contents[0].attrs['title']
         })
 
