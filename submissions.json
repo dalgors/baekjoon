@@ -1,5 +1,19 @@
 [
 	{
+		"id": 40530322,
+		"username": "jiho9707",
+		"problemId": 1149,
+		"problemName": "RGB거리",
+		"tier": 10,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2032,
+		"time": 0,
+		"language": "C++17",
+		"length": 374,
+		"when": "2022-03-16 19:50:05"
+	},
+	{
 		"id": 40528909,
 		"username": "thdwoqor",
 		"problemId": 2064,
