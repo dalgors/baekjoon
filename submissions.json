@@ -1,5 +1,19 @@
 [
 	{
+		"id": 40520378,
+		"username": "20183026",
+		"problemId": 20004,
+		"problemName": "베스킨라빈스 31",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30864,
+		"time": 68,
+		"language": "Python 3",
+		"length": 253,
+		"when": "2022-03-16 16:57:03"
+	},
+	{
 		"id": 40516873,
 		"username": "20183026",
 		"problemId": 2748,
