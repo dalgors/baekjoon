@@ -1,5 +1,19 @@
 [
 	{
+		"id": 40604698,
+		"username": "algoitni",
+		"problemId": 1806,
+		"problemName": "부분합",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 42028,
+		"time": 152,
+		"language": "Python 3",
+		"length": 650,
+		"when": "2022-03-18 00:56:51"
+	},
+	{
 		"id": 40603944,
 		"username": "thdwoqor",
 		"problemId": 24389,
