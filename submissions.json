@@ -1,5 +1,33 @@
 [
 	{
+		"id": 40671298,
+		"username": "20183026",
+		"problemId": 9375,
+		"problemName": "패션왕 신해빈",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30860,
+		"time": 68,
+		"language": "Python 3",
+		"length": 529,
+		"when": "2022-03-19 14:54:52"
+	},
+	{
+		"id": 40671284,
+		"username": "20183026",
+		"problemId": 9375,
+		"problemName": "패션왕 신해빈",
+		"tier": 8,
+		"resultCode": "OLE",
+		"resultMessage": "출력 초과",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 549,
+		"when": "2022-03-19 14:54:42"
+	},
+	{
 		"id": 40663684,
 		"username": "20183026",
 		"problemId": 2358,
