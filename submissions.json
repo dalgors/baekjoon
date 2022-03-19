@@ -1,5 +1,19 @@
 [
 	{
+		"id": 40693154,
+		"username": "nativecoder",
+		"problemId": 24389,
+		"problemName": "2의 보수",
+		"tier": 5,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 0,
+		"language": "C++17",
+		"length": 283,
+		"when": "2022-03-19 22:47:20"
+	},
+	{
 		"id": 40692727,
 		"username": "carbonsix",
 		"problemId": 2064,
