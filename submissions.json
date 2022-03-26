@@ -1,5 +1,19 @@
 [
 	{
+		"id": 41045755,
+		"username": "20203185",
+		"problemId": 19947,
+		"problemName": "투자의 귀재 배주형",
+		"tier": 6,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 0,
+		"language": "C++17",
+		"length": 405,
+		"when": "2022-03-27 01:37:17"
+	},
+	{
 		"id": 41045514,
 		"username": "20203185",
 		"problemId": 19947,
