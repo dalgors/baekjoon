@@ -1,5 +1,19 @@
 [
 	{
+		"id": 41054009,
+		"username": "20183026",
+		"problemId": 9461,
+		"problemName": "파도반 수열",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30864,
+		"time": 68,
+		"language": "Python 3",
+		"length": 328,
+		"when": "2022-03-27 12:35:21"
+	},
+	{
 		"id": 41045755,
 		"username": "20203185",
 		"problemId": 19947,
