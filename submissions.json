@@ -1,5 +1,33 @@
 [
 	{
+		"id": 41205851,
+		"username": "solo5star",
+		"problemId": 7681,
+		"problemName": "Sudoku",
+		"tier": 18,
+		"resultCode": "TLE",
+		"resultMessage": "시간 초과",
+		"memory": null,
+		"time": null,
+		"language": "Rust 2018",
+		"length": 4255,
+		"when": "2022-03-30 13:27:27"
+	},
+	{
+		"id": 41205663,
+		"username": "solo5star",
+		"problemId": 2239,
+		"problemName": "스도쿠",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 16264,
+		"time": 180,
+		"language": "Rust 2018",
+		"length": 4289,
+		"when": "2022-03-30 13:23:28"
+	},
+	{
 		"id": 41203651,
 		"username": "solo5star",
 		"problemId": 2239,
