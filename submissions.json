@@ -1,5 +1,19 @@
 [
 	{
+		"id": 41327119,
+		"username": "jiho9707",
+		"problemId": 9342,
+		"problemName": "염색체",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2176,
+		"time": 0,
+		"language": "C++17",
+		"length": 2137,
+		"when": "2022-04-01 17:17:17"
+	},
+	{
 		"id": 41311404,
 		"username": "20183026",
 		"problemId": 1325,
