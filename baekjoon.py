@@ -20,7 +20,7 @@ class BaekjoonSession:
     __session: requests.Session
     __requestCount: int
 
-    def __init__(self, groupId: int, cookies=None, requestLimit=5, throttlePerRequestAsMilliseconds=100):
+    def __init__(self, groupId: int, cookies=None, requestLimit=20, throttlePerRequestAsMilliseconds=50):
         """
         백준 전용 세션을 생성합니다.
 
