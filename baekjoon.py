@@ -82,10 +82,15 @@ class BaekjoonSession:
     def __parseSubmissionFromTableRowElement(self, submissionTag):
         tagStr = str(submissionTag)
 
+        username = re.search(r'/user/(\w+)', tagStr)
+        if not username:
+            return None
+        username = username[1]
+
         # 제출 번호, 유저 이름, 문제 번호, 문제 이름
         submission = {
             'id': int(re.search(r'solution-(\d+)', tagStr)[1]),
-            'username': re.search(r'/user/(\w+)', tagStr)[1],
+            'username': username,
             'problemId': int(re.search(r'/problem/(\d+)', tagStr)[1]),
             # '?' at '.+?' means non-greedy (https://stackoverflow.com/questions/766372/python-non-greedy-regexes)
             'problemName': re.search(r'title="(.+?)"', tagStr)[1],
@@ -134,6 +139,9 @@ class BaekjoonSession:
         # 가장 아래의 제출부터 체크하고, 채점이 완료되지 않은 제출 발견 시 바로 break
         submissions = []
         for submission in reversed([self.__parseSubmissionFromTableRowElement(tag) for tag in submissionsTags]):
+            if submission is None:
+                continue
+
             if submission['resultCode'] in ['WAIT', 'REJUDGE-WAIT', 'COMPILE', 'JUDGING']:
                 break
 
@@ -169,8 +177,15 @@ class BaekjoonSession:
         html = self.get(f'https://www.acmicpc.net/problem/{problemId}')
         soup = bs(html.text, 'html.parser')
 
-        return {
-            'name': soup.find(id='problem_title').text,
-            'tier': int(re.search(r'tier/(\d+)\.svg', soup.find(class_='solvedac-tier')['src'])[1]),
-            'tags': [e.find('a').text for e in soup.find(id='problem_tags').find_all('li')],
-        }
+        try:
+            return {
+                'name': soup.find(id='problem_title').text,
+                'tier': int(re.search(r'tier/(\d+)\.svg', soup.find(class_='solvedac-tier')['src'])[1]),
+                'tags': [e.find('a').text for e in soup.find(id='problem_tags').find_all('li')],
+            }
+        except:
+            return {
+                'name': soup.find(id='problem_title').text,
+                'tier': int(re.search(r'tier/(\d+)\.svg', soup.find(class_='solvedac-tier')['src'])[1]),
+                'tags': [],
+            }
