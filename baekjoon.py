@@ -177,15 +177,8 @@ class BaekjoonSession:
         html = self.get(f'https://www.acmicpc.net/problem/{problemId}')
         soup = bs(html.text, 'html.parser')
 
-        try:
-            return {
-                'name': soup.find(id='problem_title').text,
-                'tier': int(re.search(r'tier/(\d+)\.svg', soup.find(class_='solvedac-tier')['src'])[1]),
-                'tags': [e.find('a').text for e in soup.find(id='problem_tags').find_all('li')],
-            }
-        except:
-            return {
-                'name': soup.find(id='problem_title').text,
-                'tier': int(re.search(r'tier/(\d+)\.svg', soup.find(class_='solvedac-tier')['src'])[1]),
-                'tags': [],
-            }
+        return {
+            'name': soup.find(id='problem_title').text,
+            'tier': int(re.search(r'tier/(\d+)\.svg', soup.find(class_='solvedac-tier')['src'])[1]),
+            'tags': [e.find('a').text for e in soup.find(id='problem_tags').find_all('li')],
+        }
