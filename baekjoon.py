@@ -1,5 +1,6 @@
 import re
 import time
+import bs4
 import requests
 from bs4 import BeautifulSoup as bs
 
@@ -73,7 +74,10 @@ class BaekjoonSession:
 
         :raises CookieExpired: 로그인이 되어있지 않을 시 발생
         """
-        if '가입 신청' in self.get(f'https://www.acmicpc.net/group/{self.groupId}').text:
+        soup = bs4.BeautifulSoup(
+            self.get(f'https://www.acmicpc.net/group/{self.groupId}').text)
+
+        if '채점 현황' not in [e.text for e in soup.find('ul', {'class': 'nav nav-pills'}).find_all('li')]:
             print('[Collector] 로그인이 되어있지 않습니다. 쿠키 정보를 확인해주세요.')
             raise CookieExpired
 
