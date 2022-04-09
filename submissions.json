@@ -1,5 +1,33 @@
 [
 	{
+		"id": 41744298,
+		"username": "carbonsix",
+		"problemId": 9342,
+		"problemName": "염색체",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 119492,
+		"time": 192,
+		"language": "PyPy3",
+		"length": 258,
+		"when": "2022-04-09 19:16:42"
+	},
+	{
+		"id": 41744281,
+		"username": "carbonsix",
+		"problemId": 9342,
+		"problemName": "염색체",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 33544,
+		"time": 128,
+		"language": "Python 3",
+		"length": 258,
+		"when": "2022-04-09 19:16:23"
+	},
+	{
 		"id": 41737470,
 		"username": "asd0236",
 		"problemId": 17135,
