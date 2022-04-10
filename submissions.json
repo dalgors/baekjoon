@@ -1,5 +1,19 @@
 [
 	{
+		"id": 41774755,
+		"username": "jiho9707",
+		"problemId": 1260,
+		"problemName": "DFS와 BFS",
+		"tier": 9,
+		"resultCode": "CE",
+		"resultMessage": "컴파일 에러",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 932,
+		"when": "2022-04-10 16:09:27"
+	},
+	{
 		"id": 41772275,
 		"username": "20183220",
 		"problemId": 1697,
