@@ -1,5 +1,19 @@
 [
 	{
+		"id": 41801734,
+		"username": "20183026",
+		"problemId": 19944,
+		"problemName": "뉴비의 기준은 뭘까?",
+		"tier": 2,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 30840,
+		"time": 80,
+		"language": "Python 3",
+		"length": 129,
+		"when": "2022-04-11 08:37:27"
+	},
+	{
 		"id": 41787689,
 		"username": "20183026",
 		"problemId": 16204,
