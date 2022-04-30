@@ -1,5 +1,47 @@
 [
 	{
+		"id": 42671778,
+		"username": "asd0236",
+		"problemId": 9342,
+		"problemName": "염색체",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2176,
+		"time": 0,
+		"language": "C++17",
+		"length": 373,
+		"when": "2022-04-30 20:18:44"
+	},
+	{
+		"id": 42671769,
+		"username": "thdwoqor",
+		"problemId": 9342,
+		"problemName": "염색체",
+		"tier": 7,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "Python 3",
+		"length": 194,
+		"when": "2022-04-30 20:18:30"
+	},
+	{
+		"id": 42671754,
+		"username": "20183051",
+		"problemId": 9342,
+		"problemName": "염색체",
+		"tier": 7,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 175,
+		"when": "2022-04-30 20:18:10"
+	},
+	{
 		"id": 42611147,
 		"username": "20183026",
 		"problemId": 10170,
