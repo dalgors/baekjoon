@@ -1,5 +1,47 @@
 [
 	{
+		"id": 42836565,
+		"username": "as1212000",
+		"problemId": 9012,
+		"problemName": "괄호",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2024,
+		"time": 4,
+		"language": "C++17",
+		"length": 870,
+		"when": "2022-05-04 15:22:50"
+	},
+	{
+		"id": 42836251,
+		"username": "as1212000",
+		"problemId": 9012,
+		"problemName": "괄호",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2024,
+		"time": 4,
+		"language": "C++17",
+		"length": 672,
+		"when": "2022-05-04 15:17:24"
+	},
+	{
+		"id": 42835401,
+		"username": "as1212000",
+		"problemId": 9012,
+		"problemName": "괄호",
+		"tier": 7,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 631,
+		"when": "2022-05-04 14:59:50"
+	},
+	{
 		"id": 42835259,
 		"username": "as1212000",
 		"problemId": 9012,
