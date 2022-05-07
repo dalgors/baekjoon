@@ -1,5 +1,47 @@
 [
 	{
+		"id": 42967033,
+		"username": "20203217",
+		"problemId": 9342,
+		"problemName": "염색체",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2176,
+		"time": 0,
+		"language": "C++17",
+		"length": 614,
+		"when": "2022-05-07 20:20:52"
+	},
+	{
+		"id": 42967014,
+		"username": "solo5star",
+		"problemId": 1197,
+		"problemName": "최소 스패닝 트리",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 140492,
+		"time": 548,
+		"language": "PyPy3",
+		"length": 622,
+		"when": "2022-05-07 20:20:09"
+	},
+	{
+		"id": 42967005,
+		"username": "solo5star",
+		"problemId": 1197,
+		"problemName": "최소 스패닝 트리",
+		"tier": 12,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 69136,
+		"time": 724,
+		"language": "Python 3",
+		"length": 622,
+		"when": "2022-05-07 20:19:55"
+	},
+	{
 		"id": 42879941,
 		"username": "asd0236",
 		"problemId": 10282,
