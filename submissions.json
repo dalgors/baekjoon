@@ -1,5 +1,33 @@
 [
 	{
+		"id": 43339579,
+		"username": "20183220",
+		"problemId": 9934,
+		"problemName": "완전 이진 트리",
+		"tier": 10,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2212,
+		"time": 0,
+		"language": "C++17",
+		"length": 650,
+		"when": "2022-05-15 20:20:46"
+	},
+	{
+		"id": 43339193,
+		"username": "20183220",
+		"problemId": 9934,
+		"problemName": "완전 이진 트리",
+		"tier": 10,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 652,
+		"when": "2022-05-15 20:12:27"
+	},
+	{
 		"id": 43334859,
 		"username": "20183220",
 		"problemId": 11725,
