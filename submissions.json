@@ -1,5 +1,47 @@
 [
 	{
+		"id": 43619758,
+		"username": "thdwoqor",
+		"problemId": 6439,
+		"problemName": "교차",
+		"tier": 15,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 1213,
+		"when": "2022-05-21 23:34:16"
+	},
+	{
+		"id": 43619707,
+		"username": "thdwoqor",
+		"problemId": 6439,
+		"problemName": "교차",
+		"tier": 15,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (TypeError)",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 1211,
+		"when": "2022-05-21 23:33:10"
+	},
+	{
+		"id": 43619440,
+		"username": "thdwoqor",
+		"problemId": 6439,
+		"problemName": "교차",
+		"tier": 15,
+		"resultCode": "WA",
+		"resultMessage": "틀렸습니다",
+		"memory": null,
+		"time": null,
+		"language": "PyPy3",
+		"length": 1528,
+		"when": "2022-05-21 23:26:34"
+	},
+	{
 		"id": 43618480,
 		"username": "thdwoqor",
 		"problemId": 6439,
