@@ -1,5 +1,33 @@
 [
 	{
+		"id": 43598370,
+		"username": "dlans321",
+		"problemId": 9742,
+		"problemName": "순열",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2024,
+		"time": 532,
+		"language": "C++17",
+		"length": 1344,
+		"when": "2022-05-21 13:51:15"
+	},
+	{
+		"id": 43598197,
+		"username": "dlans321",
+		"problemId": 9742,
+		"problemName": "순열",
+		"tier": 7,
+		"resultCode": "OLE",
+		"resultMessage": "출력 초과",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1358,
+		"when": "2022-05-21 13:44:25"
+	},
+	{
 		"id": 43572541,
 		"username": "dlans321",
 		"problemId": 9742,
