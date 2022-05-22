@@ -1,5 +1,19 @@
 [
 	{
+		"id": 43656031,
+		"username": "thdwoqor",
+		"problemId": 9012,
+		"problemName": "괄호",
+		"tier": 7,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 113112,
+		"time": 128,
+		"language": "PyPy3",
+		"length": 208,
+		"when": "2022-05-22 23:44:32"
+	},
+	{
 		"id": 43653842,
 		"username": "as1212000",
 		"problemId": 6603,
