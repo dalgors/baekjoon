@@ -1,5 +1,47 @@
 [
 	{
+		"id": 43651815,
+		"username": "qotjsdud67",
+		"problemId": 1182,
+		"problemName": "부분수열의 합",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 4,
+		"language": "C++17",
+		"length": 428,
+		"when": "2022-05-22 22:22:12"
+	},
+	{
+		"id": 43651312,
+		"username": "20203217",
+		"problemId": 10974,
+		"problemName": "모든 순열",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 24,
+		"language": "C++17",
+		"length": 550,
+		"when": "2022-05-22 22:11:48"
+	},
+	{
+		"id": 43651301,
+		"username": "20183220",
+		"problemId": 10974,
+		"problemName": "모든 순열",
+		"tier": 8,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 20,
+		"language": "C++17",
+		"length": 527,
+		"when": "2022-05-22 22:11:36"
+	},
+	{
 		"id": 43650938,
 		"username": "qotjsdud67",
 		"problemId": 15649,
