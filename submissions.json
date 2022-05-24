@@ -1,5 +1,19 @@
 [
 	{
+		"id": 43724717,
+		"username": "dlans321",
+		"problemId": 1182,
+		"problemName": "부분수열의 합",
+		"tier": 9,
+		"resultCode": "AC",
+		"resultMessage": "맞았습니다!!",
+		"memory": 2020,
+		"time": 4,
+		"language": "C++17",
+		"length": 685,
+		"when": "2022-05-24 16:35:41"
+	},
+	{
 		"id": 43712709,
 		"username": "dlans321",
 		"problemId": 1182,
