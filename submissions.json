@@ -1,5 +1,19 @@
 [
 	{
+		"id": 43782766,
+		"username": "dlans321",
+		"problemId": 1541,
+		"problemName": "잃어버린 괄호",
+		"tier": 9,
+		"resultCode": "RTE",
+		"resultMessage": "런타임 에러 (out_of_range)",
+		"memory": null,
+		"time": null,
+		"language": "C++17",
+		"length": 1076,
+		"when": "2022-05-25 21:39:31"
+	},
+	{
 		"id": 43724717,
 		"username": "dlans321",
 		"problemId": 1182,
